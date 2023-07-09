@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color:white;
+    margin:0px;
+}
+.footer {
+    width:30%;
+    position:fixed;
+    left:550px;
+    bottom:20;
+    text-align:center;
+    text-shadow:5px 5px 7px  rgb(40, 40, 40);
+    font-size:18px;
+    box-shadow:5px 5px 1000px rgb(40, 40, 40);
+    color:black;
+}
+#header
+{
+    background-color: rgb(69, 69, 69);
+    padding-bottom:5px;
+    margin-top:10px;
+    margin-bottom:10px;
+    padding-top:2px;
+}
